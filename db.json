@@ -1,0 +1,29 @@
+{
+  "perfil": [
+    {
+      "nombre": "Ejemplo Nombre",
+      "email": "xxxxxxx@xxxxxxx.com",
+      "id": 1
+    },
+    {
+      "nombre": "Pedro",
+      "email": "Osito@email.com",
+      "id": 2
+    },
+    {
+      "nombre": "dayer",
+      "email": "dayer.9312@gmail.com",
+      "id": "933a11db-3cf2-4944-987a-885dab0e2fa1"
+    },
+    {
+      "nombre": "chitto",
+      "email": "chitto.9312@gmail.com",
+      "id": "216872a6-b06f-405a-9756-4dd59dcff380"
+    },
+    {
+      "nombre": "gaby",
+      "email": "gaby@gmail.com",
+      "id": "efc9a657-b8cb-45a7-ba09-09ba9f018793"
+    }
+  ]
+}
